@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Afghanistan",
+    "code": "AF",
+    "capital": "Kabul",
+    "region": "AS",
+    "currency": {
+      "code": "AFN",
+      "name": "Afghan afghani",
+      "symbol": "؋"
+    },
+    "language": {
+      "code": "ps",
+      "name": "Pashto"
+    },
+    "flag": "https://restcountries.eu/data/afg.svg"
+  },
+  {
+    "name": "Åland Islands",
+    "code": "AX",
+    "capital": "Mariehamn",
+    "region": "EU",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": {
+      "code": "sv",
+      "name": "Swedish"
+    },
+    "flag": "https://restcountries.eu/data/ala.svg"
+  },
+  {
+    "name": "Albania",
+    "code": "AL",
+    "capital": "Tirana",
+    "region": "EU",
+    "currency": {
+      "code": "ALL",
+      "name": "Albanian lek",
+      "symbol": "L"
+    },
+    "language": {
+      "code": "sq",
+      "name": "Albanian"
+    },
+    "flag": "https://restcountries.eu/data/alb.svg"
+  },
+  {
+    "name": "Algeria",
+    "code": "DZ",
+    "capital": "Algiers",
+    "region": "AF",
+    "currency": {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "د.ج"
+    },
+    "language": {
+      "code": "ar",
+      "name": "Arabic"
+    },
+    "flag": "https://restcountries.eu/data/dza.svg"
+  },
+  {
+    "name": "American Samoa",
+    "code": "AS",
+    "capital": "Pago Pago",
+    "region": "OC",
+    "currency": {
+      "code": "USD",
+      "name": "United State Dollar",
+      "symbol": "$"
+    },
+    "language": {
+      "code": "en",
+      "name": "English"
+    },
+    "flag": "https://restcountries.eu/data/asm.svg"
+  },
+  {
+    "name": "Andorra",
+    "code": "AD",
+    "capital": "Andorra la Vella",
+    "region": "EU",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": {
+      "code": "ca",
+      "name": "Catalan"
+    },
+    "flag": "https://restcountries.eu/data/and.svg"
+  },
+  {
+    "name": "Angola",
+    "code": "AO",
+    "capital": "Luanda",
+    "region": "AF",
+    "currency": {
+      "code": "AOA",
+      "name": "Angolan kwanza",
+      "symbol": "Kz"
+    },
+    "language": {
+      "code": "pt",
+      "name": "Portuguese"
+    },
+    "flag": "https://restcountries.eu/data/ago.svg"
+  },
+  {
+    "name": "Anguilla",
+    "code": "AI",
+    "capital": "The Valley",
+    "region": "NA",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "language": {
+      "code": "en",
+      "name": "English"
+    },
+    "flag": "https://restcountries.eu/data/aia.svg"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "AG",
+    "capital": "Saint John's",
+    "region": "NA",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "language": {
+      "code": "en",
+      "name": "English"
+    },
+    "flag": "https://restcountries.eu/data/atg.svg"
+  },
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "capital": "Buenos Aires",
+    "region": "SA",
+    "currency": {
+      "code": "ARS",
+      "name": "Argentine peso",
+      "symbol": "$"
+    },
+    "language": {
+      "code": "es",
+      "name": "Spanish"
+    },
+    "flag": "https://restcountries.eu/data/arg.svg"
+  }
+]

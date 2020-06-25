@@ -1,0 +1,12 @@
+
+.red {background:#ff3366;}
+.orange {background:#ff6633;}
+.yellow {background:#FFCC33;}
+.green {background:#33FF66;}
+.cyan {background:#33FFCC;}
+.sky {background:#33CCFF;}
+.blue {background:#3366FF;}
+.indigo {background:#6633FF;}
+.violet {background:#CC33FF;}
+.grey {background: #efefef;}
+			
